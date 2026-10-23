@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/Oefeningen/" />
+  <Folder Name="/Oefeningen/A/">
+    <Project Path="OefeningA/OefeningA.csproj" />
+    <Project Path="OplossingA/OplossingA.csproj" />
+    <Project Path="TestOefeningA/TestOefeningA.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/B/">
+    <Project Path="OefeningB/OefeningB.csproj" />
+    <Project Path="OplossingB/OplossingB.csproj" />
+    <Project Path="TestOefeningB/TestOefeningB.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/C/">
+    <Project Path="OefeningC/OefeningC.csproj" />
+    <Project Path="OplossingC/OplossingC.csproj" />
+    <Project Path="TestOefeningC/TestOefeningC.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/D/">
+    <Project Path="OefeningD/OefeningD.csproj" />
+    <Project Path="OplossingD/OplossingD.csproj" />
+    <Project Path="TestOefeningD/TestOefeningD.csproj" />
+  </Folder>
+  <Project Path="TestHelper/TestHelper.csproj" />
+  <Project Path="Voorbeeld/Voorbeeld.csproj" />
+</Solution>
