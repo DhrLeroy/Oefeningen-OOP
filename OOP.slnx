@@ -20,6 +20,43 @@
     <Project Path="OplossingD/OplossingD.csproj" />
     <Project Path="TestOefeningD/TestOefeningD.csproj" />
   </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Inleiding/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Inleiding/Oefening 1/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Inleiding/Oefening 2/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Inleiding/Oefening 3/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Inleiding/Oefening 4/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Inleiding/Oefening 5/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening A/" />
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening B/">
+    <Project Path="../Cursus-Csharp/Oefening7B/Oefening B.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7B/Oplossing7B.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening C/">
+    <Project Path="../Cursus-Csharp/Oefening7C/Oefening C.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7C/Oplossing C.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening D/">
+    <Project Path="../Cursus-Csharp/Oefening7D/Oefening D.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7D/Oplossing D.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening E/">
+    <Project Path="../Cursus-Csharp/Oefening7E/Oefening E.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7E/Oplossing E.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening F/">
+    <Project Path="../Cursus-Csharp/Oefening7F/Oefening F.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7F/Oplossing7F.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening G/">
+    <Project Path="../Cursus-Csharp/Oefening7G/Oefening G.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7G/Oplossing G.csproj" />
+  </Folder>
+  <Folder Name="/Oefeningen/Extra oefeningen/Oefening H/">
+    <Project Path="../Cursus-Csharp/Oefening7H/Oefening H.csproj" />
+    <Project Path="../Cursus-Csharp/Oplossing7H/Oplossing H.csproj" />
+  </Folder>
+  <Project Path="Pizza/Pizzeria.csproj" />
   <Project Path="TestHelper/TestHelper.csproj" />
   <Project Path="Voorbeeld/Voorbeeld.csproj" />
 </Solution>
